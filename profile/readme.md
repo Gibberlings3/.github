@@ -7,5 +7,5 @@ Icewind Dale II and Planescape: Torment, both the originals and the Enhanced Edi
 mods on Github. 
 
 Feel free to browse [our main site](https://www.gibberlings3.net/), our [collection of released mods](https://www.gibberlings3.net/files/categories/), view information about mods in progress, 
-check out the [portrait gallery](https://www.gibberlings3.net/gallery/category/1-portrait-packs/), or visit the [forums](https://www.gibberlings3.net/forums)
+check out the [portrait gallery](https://www.gibberlings3.net/gallery/category/1-portrait-packs/), visit the [forums](https://www.gibberlings3.net/forums)
 or join us on [Discord](https://discord.gg/yTzjMTb).

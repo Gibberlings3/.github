@@ -1,6 +1,6 @@
-# Welcome to the Gibberlings Three
-
 ![The G3 Logo](https://gibberlings3.github.io/Documentation/readmes/style/g3_logo_2018.gif)
+
+# Welcome to the Gibberlings Three
 
 The Gibberlings Three (G3) is a very active modding community for the Infinity Engine, which powers games such as Baldur's Gate, Baldur's Gate II, Icewind Dale, 
 Icewind Dale II and Planescape: Torment, both the originals and the Enhanced Editions. We also feature mods for Neverwinter Nights II. This is our organization's

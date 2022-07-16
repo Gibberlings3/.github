@@ -1,4 +1,4 @@
-![The G3 Logo](https://gibberlings3.github.io/Documentation/readmes/style/g3_logo_2018.gif)
+![The G3 Logo](https://raw.githubusercontent.com/Gibberlings3/.github/master/profile/g3_neutral.png)
 
 # Welcome to the Gibberlings Three
 
